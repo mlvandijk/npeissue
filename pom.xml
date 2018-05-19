@@ -27,6 +27,12 @@
             <version>2.4.0</version>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>net.serenity-bdd</groupId>
+            <artifactId>serenity-cucumber</artifactId>
+            <version>1.9.7</version>
+        </dependency>
     </dependencies>
 
 
